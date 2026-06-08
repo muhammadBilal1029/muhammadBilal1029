@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Muhammad Bilal
 
-<!--
-**muhammadBilal1029/muhammadBilal1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Full-Stack Web Developer with experience in React.js, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, and AI-powered applications.
 
-Here are some ideas to get you started:
+## Skills
+- React.js
+- Next.js
+- Node.js
+- TypeScript
+- MongoDB
+- PostgreSQL
+- Prisma
+- Tailwind CSS
+- Express.js
+- NestJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- FursatiPro AI
+- AllFor4x4
+- SkillSense AI Interview Platform
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/mirzabilal1029
+- Portfolio: https://myportfolio1029.vercel.app
